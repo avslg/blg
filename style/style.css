@@ -1,0 +1,60 @@
+div.container div.main{
+    min-height: 400px;
+}
+
+div#logo h1{
+    font-family: 'Inconsolata', monospace;
+
+    color:cornflowerblue;
+    text-align: center;
+    padding: 40px 0px;
+    font-size: 99px;
+}
+
+div#logo a:hover{
+    text-decoration: none;
+}
+
+
+
+article h1{
+    color:rebeccapurple;
+    text-align: center;
+}
+
+article{
+    padding-right: 10%;
+    text-indent: 20px;
+}
+
+
+div.container div.panel{
+    background-color: cornflowerblue;
+    min-height: 800px;
+    -webkit-border-radius: 10px 10px 0 80px;
+    -moz-border-radius: 10px 10px 0 80px;
+    border-radius: 10px 10px 0 80px;
+}
+
+div.card img{
+    float: right;
+    clear: right;
+    width: 30%;
+}
+
+hr.down{
+    background-color: firebrick;
+    height: 1px;
+    border: 0px;
+
+ }
+
+.fa-trash{
+    color:orangered;
+}
+fa-edit{
+    color:darkcyan;
+}
+a.lb{
+    visibility: hidden;
+}
