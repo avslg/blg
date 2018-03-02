@@ -1,3 +1,3 @@
 # blg
 
-domain.com/?controller=admin
+kick2017.info/?controller=admin
